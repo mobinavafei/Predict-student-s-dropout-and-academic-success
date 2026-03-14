@@ -1,1 +1,3 @@
-# Predict-student-s-dropout-and-academic-success
+# Predict student's dropout and academic success
+The purpose of this project is to help reduce dropout and academic failure in higher education by using machine learning techniques to identify risk students early in their academic. The problem is known as a classification task of three categories: dropout, enrollment, and graduation at the end of the course.
+In this project I use seven machine learning algorithm including Naive Bayes, Decision Tree, Random Forest, XGBoost, LightGBM, CatBoost, and KMeans Clustering, the project help to predict whether a student will drop out, continue their studies, or graduate.
